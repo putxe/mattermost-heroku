@@ -1,1 +1,1 @@
-release: ./run.sh
+web: ./run.sh
